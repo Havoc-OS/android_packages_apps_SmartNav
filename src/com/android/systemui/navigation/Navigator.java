@@ -149,4 +149,6 @@ public interface Navigator extends PluginListener<NavGesture> {
 
     public default void notifyPulseScreenOn(boolean screenOn) {}
     public default void sendIntentToPulse(Intent intent) {}
+    
+    public default void setFullGestureMode(boolean full, boolean dt2s) {}
 }
