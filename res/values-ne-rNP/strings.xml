@@ -30,7 +30,7 @@
     <string name="label_action_google_now_on_tap">Google assistant</string>
     <string name="label_action_voice_search">Voice search</string>
     <string name="label_action_in_app_search">In-app search</string>
-    <string name="label_action_flashlight">Flashlight</string>
+    <string name="label_action_flashlight">टर्च</string>
     <string name="label_action_bluetooth">Bluetooth</string>
     <string name="label_action_wifi">WiFi</string>
     <string name="label_action_hotspot">Hotspot</string>
